@@ -1,10 +1,10 @@
 fileFormatVersion: 2
-guid: 02f1023c293e5aa4fa51e021a716a982
+guid: 8aaf56808bf24c6458a6954cb655bc74
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -8087839074598449383
-    second: Player Front_0
+      213: 5447828828430334259
+    second: Tutorial Background_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -114,7 +114,7 @@ TextureImporter:
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
-    textureCompression: 0
+    textureCompression: 1
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
@@ -127,7 +127,7 @@ TextureImporter:
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
-    textureCompression: 0
+    textureCompression: 1
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
@@ -139,13 +139,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Player Front_0
+      name: Tutorial Background_0
       rect:
         serializedVersion: 2
         x: 0
         y: 0
-        width: 356
-        height: 982
+        width: 4096
+        height: 2304
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -154,8 +154,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 91f090e763932cf80800000000000000
-      internalID: -8087839074598449383
+      spriteID: 339f8b3a4739a9b40800000000000000
+      internalID: 5447828828430334259
       vertices: []
       indices: 
       edges: []
@@ -174,7 +174,7 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      Player Front_0: -8087839074598449383
+      Tutorial Background_0: 5447828828430334259
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
