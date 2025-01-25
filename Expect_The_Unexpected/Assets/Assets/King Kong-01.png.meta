@@ -1,10 +1,10 @@
 fileFormatVersion: 2
-guid: bd63f13c92c777149ad54389326e1415
+guid: 26fd4d3a47d891c41b6dfb78248778c4
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -4224637940568141144
-    second: Toilet BG Scene 1 with lamp_0
+      213: -974883528273052551
+    second: King Kong-01_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -51,7 +51,7 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 100
+  spritePixelsToUnits: 160
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -114,7 +114,7 @@ TextureImporter:
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
-    textureCompression: 0
+    textureCompression: 1
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
@@ -127,7 +127,7 @@ TextureImporter:
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
-    textureCompression: 0
+    textureCompression: 1
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
@@ -139,13 +139,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Toilet BG Scene 1 with lamp_0
+      name: King Kong-01_0
       rect:
         serializedVersion: 2
-        x: 0
-        y: 0
-        width: 4097
-        height: 2305
+        x: 2046
+        y: 708
+        width: 3523
+        height: 5807
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -154,8 +154,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 8a25cc71d221f55c0800000000000000
-      internalID: -4224637940568141144
+      spriteID: 97cb7ef98948872f0800000000000000
+      internalID: -974883528273052551
       vertices: []
       indices: 
       edges: []
@@ -174,7 +174,7 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      Toilet BG Scene 1 with lamp_0: -4224637940568141144
+      King Kong-01_0: -974883528273052551
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

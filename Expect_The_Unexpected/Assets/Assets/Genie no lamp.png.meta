@@ -1,10 +1,13 @@
 fileFormatVersion: 2
-guid: bd63f13c92c777149ad54389326e1415
+guid: c30f412d3eacb71449c01363803ae854
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -4224637940568141144
-    second: Toilet BG Scene 1 with lamp_0
+      213: -1679542684051779938
+    second: Genie no lamp_0
+  - first:
+      213: 8800944696164978010
+    second: Genie no lamp_1
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -114,7 +117,7 @@ TextureImporter:
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
-    textureCompression: 0
+    textureCompression: 1
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
@@ -127,7 +130,7 @@ TextureImporter:
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
-    textureCompression: 0
+    textureCompression: 1
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
@@ -139,13 +142,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Toilet BG Scene 1 with lamp_0
+      name: Genie no lamp_0
       rect:
         serializedVersion: 2
         x: 0
         y: 0
-        width: 4097
-        height: 2305
+        width: 317
+        height: 587
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -154,8 +157,30 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 8a25cc71d221f55c0800000000000000
-      internalID: -4224637940568141144
+      spriteID: e9eccf3d3d011b8e0800000000000000
+      internalID: -1679542684051779938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genie no lamp_1
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 220
+        width: 14
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5d85ce529c332a70800000000000000
+      internalID: 8800944696164978010
       vertices: []
       indices: 
       edges: []
@@ -174,7 +199,8 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      Toilet BG Scene 1 with lamp_0: -4224637940568141144
+      Genie no lamp_0: -1679542684051779938
+      Genie no lamp_1: 8800944696164978010
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
