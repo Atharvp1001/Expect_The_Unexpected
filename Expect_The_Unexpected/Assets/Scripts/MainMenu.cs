@@ -12,7 +12,7 @@ public class MainMenu : MonoBehaviour
         confirmationPanel.SetActive(false);
         secondConfirmationPanel.SetActive(false);
     }
-
+    
     public void OnPlayButtonClicked()
     {
         // Show the first confirmation prompt
