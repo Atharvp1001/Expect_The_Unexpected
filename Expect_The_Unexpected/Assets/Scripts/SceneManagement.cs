@@ -24,4 +24,9 @@ public class SceneManagement : MonoBehaviour
             Debug.LogWarning("There is no next scene in the build settings.");
         }
     }
+    public void OnExitButtonClicked()
+    {
+        Application.Quit(); // Quit the application
+        Debug.Log("Game Closed"); // This works only in a built game, not in the editor
+    }
 }

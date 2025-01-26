@@ -38,9 +38,17 @@ public class MainMenu : MonoBehaviour
     {
         if (isConfirmed)
         {
-            // If "Yes" is clicked, start the game
-            SceneManager.LoadScene("GameScene"); // Replace "GameScene" with your actual scene name
-            Debug.Log("game started");
+            int currentSceneIndex = SceneManager.GetActiveScene().buildIndex;
+            int nextSceneIndex = currentSceneIndex + 1;
+
+            if (nextSceneIndex < SceneManager.sceneCountInBuildSettings)
+            {
+                SceneManager.LoadScene(nextSceneIndex);
+            }
+            else
+            {
+                Debug.LogWarning("There is no next scene in the build settings.");
+            }
         }
         else
         {
