@@ -1,10 +1,10 @@
 fileFormatVersion: 2
-guid: 6a3167f160d4c5b4f8b49b134e9e06e3
+guid: fb9efd53ef33eec4385dfacd89cd3920
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 1089749405469954220
-    second: hawaii-beach-landscape-with-nature-coastline_0
+      213: -719521315010693657
+    second: Hospital Story_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -51,7 +51,7 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 420
+  spritePixelsToUnits: 100
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -139,13 +139,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: hawaii-beach-landscape-with-nature-coastline_0
+      name: Hospital Story_0
       rect:
         serializedVersion: 2
         x: 0
         y: 0
-        width: 8064
-        height: 5376
+        width: 1920
+        height: 1080
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -154,8 +154,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: ca0da3f7f419f1f00800000000000000
-      internalID: 1089749405469954220
+      spriteID: 7e5377a1d2fb306f0800000000000000
+      internalID: -719521315010693657
       vertices: []
       indices: 
       edges: []
@@ -174,7 +174,7 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      hawaii-beach-landscape-with-nature-coastline_0: 1089749405469954220
+      Hospital Story_0: -719521315010693657
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
